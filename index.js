@@ -42,7 +42,6 @@ app.locals.company = 'Vizza pvt Ltd'
 //       <p><a href="/new">Click me..!</a></p>
 //     `);
 // });
- 
   
 app.listen(PORT,() =>{
     console.log("Server is running successfully on", PORT);
